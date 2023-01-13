@@ -1,5 +1,232 @@
 @charset "UTF-8";
 
-nav ul li{
+
+body{
+    width: 1240px;
+    margin: 0px auto 0px auto;
+    border: groove darkgrey;
+    background-color: #3b3d45;
+ }
+
+html{
+    background-color: #211b20;
+    color: rgb(255, 255, 255);
+ }
+
+header{
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+ }
+
+nav .ul .li{
     display: inline;
+    text-align: center;
+    width: 100%;    
+ }
+
+.li:hover{
+    background-color: #355691;
+ }
+
+.li{
+    padding: 10px 115px;
 }
+
+a{
+    color: #FFF;
+ }
+
+nav{
+    border-bottom: groove darkgrey;
+    text-align: center;
+    width: 100%;
+    color: #FFF;
+ }
+
+footer {
+    bottom: 0;
+    background-color: #355691;
+    width: 100%;
+    height: 50px;    
+    text-align: center;
+    line-height: 50px;
+ }
+ 
+/* HOME */
+
+.th{
+    text-align: center;
+ }
+
+.ph{
+    text-align: center;
+ }
+
+/* BANDAS */
+
+.h-band{
+    text-align: center;
+}
+
+.p-band{
+    text-align: justify;
+    margin: auto 5px auto 100px;
+}
+
+.asidebandas{
+    float: right;
+    border-style: double ;
+    border-color: #5b5e6b;
+    width: 150px;
+    height: 275px;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.h-pantera{
+    text-align: center;
+}
+
+.imgH{
+    width: 140.5px;
+    height: 140.5px;
+
+}
+
+.imgH1{
+    margin-left: 100px;
+    width: 140.5px;
+    height: 140.5px;
+}
+
+.p-pantera{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+}
+
+.h-aic{
+    text-align: center;
+}
+
+.p-aic{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+
+}
+
+.h-bs{
+    text-align: center;
+}
+
+.p-bs{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+
+}
+
+.h-pk{
+    text-align: center;
+}
+
+.p-pk{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+
+}
+
+/* AMPS */
+
+.tamps{
+    text-align: center;
+}
+
+
+.p-amps{
+    text-align: justify;
+    margin: auto 100px;
+}
+
+.p-amps-aside1{
+
+}
+
+.article-amps{
+
+}
+
+.h-marshall{
+
+}
+
+.p-marshall{
+
+}
+
+.h-fender{
+
+}
+
+.p-fender{
+
+}
+
+.h-peavey{
+
+}
+
+.p-peavey{
+
+}
+
+.h-randall{
+
+}
+
+.p-randall{
+
+}
+
+/* GUITAS */
+
+.article-guita{
+
+}
+
+.h-guita{
+
+}
+
+.p-guita{
+
+}
+
+.h-dean{
+
+}
+
+.p-vdtt{
+
+}
+
+.p-ml{
+
+}
+
+.h-gib{
+
+}
+
+.p-sg{
+
+}
+
+.h-fender{
+
+}
+
+.p-jguar{
+
+}
+
+/* EFX */
