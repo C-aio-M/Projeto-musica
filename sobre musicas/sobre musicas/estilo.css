@@ -1,0 +1,325 @@
+@charset "UTF-8";
+
+
+body{
+    width: 1240px;
+    margin: 0px auto 0px auto;
+    border: groove darkgrey;
+    background-color: #3b3d45;
+ }
+
+html{
+    background-color: #211b20;
+    color: rgb(255, 255, 255);
+ }
+
+header{
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+ }
+
+nav .ul .li{
+    display: inline;
+    text-align: center;
+    width: 100%;    
+ }
+
+.li:hover{
+    background-color: #355691;
+ }
+
+.li{
+    padding: 10px 115px;
+}
+
+a{
+    color: #FFF;
+ }
+
+nav{
+    border-bottom: groove darkgrey;
+    text-align: center;
+    width: 100%;
+    color: #FFF;
+ }
+
+footer {
+    bottom: 0;
+    background-color: #355691;
+    width: 100%;
+    height: 50px;    
+    text-align: center;
+    line-height: 50px;
+ }
+ 
+/* HOME */
+
+.th{
+    text-align: center;
+ }
+
+.ph{
+    text-align: center;
+ }
+
+/* BANDAS */
+
+.h-band{
+    text-align: center;
+}
+
+.p-band{
+    text-align: justify;
+    margin: auto 5px auto 100px;
+}
+
+.asidebandas{
+    float: right;
+    border-style: double ;
+    border-color: #5b5e6b;
+    width: 150px;
+    height: 275px;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.h-pantera{
+    text-align: center;
+}
+
+.imgH{
+    width: 140.5px;
+    height: 140.5px;
+
+}
+
+.imgH1{
+    margin-left: 100px;
+    width: 140.5px;
+    height: 140.5px;
+}
+
+.p-pantera{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+}
+
+.h-aic{
+    text-align: center;
+}
+
+.p-aic{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+
+}
+
+.h-bs{
+    text-align: center;
+}
+
+.p-bs{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+
+}
+
+.h-pk{
+    text-align: center;
+}
+
+.p-pk{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+
+}
+
+/* AMPS */
+
+.tamps{
+    text-align: center;
+}
+
+.p-amps{
+    text-align: justify;
+    margin: auto 100px;
+}
+
+.h-marshall{
+    margin-left: 100px;
+}
+
+.p-marshall{
+    text-align: justify;
+    margin: auto auto auto 100px;
+    /* padding-right: 400px; */
+    width: 66.666%;
+    height: 150PX;
+    float: left;    
+}
+
+.h-fender{
+    text-align: end;
+    margin-right: 100px;
+}
+
+.p-fender{
+    text-align: justify;
+    margin: auto 100px auto auto ;
+    /* padding-right: 400px; */
+    width: 66.666%;
+    height: 150PX;
+    float: right;    
+}
+
+.h-peavey{
+    margin-left: 100px;
+}
+
+.p-peavey{
+    text-align: justify;
+    margin: auto auto auto 100px;
+    /* padding-right: 400px; */
+    width: 66.666%;
+    height: 150PX;
+    float: left;    
+}
+
+.h-mesa{
+    text-align: end;
+    margin-right: 100px;
+}
+
+.p-mesa{
+    text-align: justify;
+    margin: auto 100px auto auto ;
+    /* padding-right: 400px; */
+    width: 66.666%;
+    height: 150PX;
+    float: right;    
+}
+
+.h-randall{
+    margin-left: 100px;
+}
+
+.p-randall{    
+    text-align: justify;
+    margin: auto auto auto 100px;
+    /* padding-right: 400px; */
+    width: 66.666%;
+    height: 150PX;
+    float: left;    
+}
+
+.i-marshall{
+    width: 200px;
+    height: 150PX;
+    margin-right: 100px;
+    float: right;
+}
+
+.i-twin{
+    width: 200px;
+    height: 150PX;
+    margin-left: 100px;
+    float: left;
+}
+
+.i-studio{
+    width: 200px;
+    height: 150PX;
+    margin-right: 100px;
+    float: right;
+}
+
+.i-mesa{
+    width: 200px;
+    height: 150PX;
+    margin-left: 100px;
+    float: left;
+}
+
+.i-randall{
+    width: 200px;
+    height: 150PX;
+    margin-right: 100px;
+    float: right;
+}
+
+section{
+    margin-bottom: 200px;
+}
+
+/* GUITAS */
+
+.article-guita{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+}
+
+.h-guita{
+    text-align: center;
+}
+
+.p-guita{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+}
+
+.h-dean{
+    margin-left: 100px;
+}
+
+.p-vdtt{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+}
+
+.p-ml{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+}
+
+.h-gib{
+    margin-left: 100px;
+}
+
+.p-sg{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+}
+
+.h-gfender{
+    margin-left: 100px;
+}
+
+.p-jguar{
+    text-align: justify;
+    margin: auto 100px auto 100px;
+}
+
+.i-vdtt{
+    width: 450px;
+    height: 163.5px;
+    margin-left: 300px;
+}
+
+.i-ml{
+    width: 450px;
+    height: 163.5px;    
+    margin-left: 300px;
+}
+
+.i-sg{
+    width: 450px;
+    height: 163.5px;    
+    margin-left: 300px;
+}
+
+.i-jaguar{
+    width: 450px;
+    height: 163.5px;    
+    margin-left: 300px;
+}
