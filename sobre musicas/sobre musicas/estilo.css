@@ -1,33 +1,32 @@
 @charset "UTF-8";
 
-
 body{
     width: 1240px;
     margin: 0px auto 0px auto;
     border: groove darkgrey;
     background-color: #3b3d45;
- }
+}
 
 html{
     background-color: #211b20;
     color: rgb(255, 255, 255);
- }
+}
 
 header{
     text-align: center;
     font-style: italic;
     font-size: large;
- }
+}
 
 nav .ul .li{
     display: inline;
     text-align: center;
     width: 100%;    
- }
+}
 
 .li:hover{
     background-color: #355691;
- }
+}
 
 .li{
     padding: 10px 115px;
@@ -35,14 +34,14 @@ nav .ul .li{
 
 a{
     color: #FFF;
- }
+}
 
 nav{
     border-bottom: groove darkgrey;
     text-align: center;
     width: 100%;
     color: #FFF;
- }
+}
 
 footer {
     bottom: 0;
@@ -51,17 +50,18 @@ footer {
     height: 50px;    
     text-align: center;
     line-height: 50px;
- }
+}
  
 /* HOME */
 
 .th{
     text-align: center;
- }
+}
 
 .ph{
     text-align: center;
- }
+    margin: 100px;
+}
 
 /* BANDAS */
 
@@ -265,39 +265,39 @@ section{
 
 .p-guita{
     text-align: justify;
-    margin: auto 100px auto 100px;
+    margin: auto;
 }
 
 .h-dean{
-    margin-left: 100px;
+    margin-left: auto;
 }
 
 .p-vdtt{
     text-align: justify;
-    margin: auto 100px auto 100px;
+    margin: auto;
 }
 
 .p-ml{
     text-align: justify;
-    margin: auto 100px auto 100px;
+    margin: auto;
 }
 
 .h-gib{
-    margin-left: 100px;
+    margin-left: auto;
 }
 
 .p-sg{
     text-align: justify;
-    margin: auto 100px auto 100px;
+    margin: auto;
 }
 
 .h-gfender{
-    margin-left: 100px;
+    margin-left: auto;
 }
 
 .p-jguar{
     text-align: justify;
-    margin: auto 100px auto 100px;
+    margin: auto;
 }
 
 .i-vdtt{
